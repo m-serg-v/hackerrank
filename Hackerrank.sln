@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BeautifulTriplets", "Beauti
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimumDistances", "MinimumDistances\MinimumDistances.vcxproj", "{5675D4B3-96AD-4870-8A34-D02C8EF30A47}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HalloweenSale", "HalloweenSale\HalloweenSale.vcxproj", "{F2B7A4C5-C0F8-46A0-B73D-42AC67C8EAD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{5675D4B3-96AD-4870-8A34-D02C8EF30A47}.Release|x64.Build.0 = Release|x64
 		{5675D4B3-96AD-4870-8A34-D02C8EF30A47}.Release|x86.ActiveCfg = Release|Win32
 		{5675D4B3-96AD-4870-8A34-D02C8EF30A47}.Release|x86.Build.0 = Release|Win32
+		{F2B7A4C5-C0F8-46A0-B73D-42AC67C8EAD1}.Debug|x64.ActiveCfg = Debug|x64
+		{F2B7A4C5-C0F8-46A0-B73D-42AC67C8EAD1}.Debug|x64.Build.0 = Debug|x64
+		{F2B7A4C5-C0F8-46A0-B73D-42AC67C8EAD1}.Debug|x86.ActiveCfg = Debug|Win32
+		{F2B7A4C5-C0F8-46A0-B73D-42AC67C8EAD1}.Debug|x86.Build.0 = Debug|Win32
+		{F2B7A4C5-C0F8-46A0-B73D-42AC67C8EAD1}.Release|x64.ActiveCfg = Release|x64
+		{F2B7A4C5-C0F8-46A0-B73D-42AC67C8EAD1}.Release|x64.Build.0 = Release|x64
+		{F2B7A4C5-C0F8-46A0-B73D-42AC67C8EAD1}.Release|x86.ActiveCfg = Release|Win32
+		{F2B7A4C5-C0F8-46A0-B73D-42AC67C8EAD1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
