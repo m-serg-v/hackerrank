@@ -10,12 +10,13 @@ int birthdayCakeCandles(const vector<int>& ar) {
     int count = 0;
     for ( const int& val : ar )
     {
-        if ( maxValue != std::max(val, maxValue) )
+        int tempVal = std::max(val, maxValue);
+        if ( maxValue != tempVal )
         {
             count = 1;
             maxValue = val;
         }
-        else
+        else if ( val == maxValue )
         {
             count++;
         }
