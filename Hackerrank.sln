@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HalloweenSale", "HalloweenS
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheTimeInWords", "TheTimeInWords\TheTimeInWords.vcxproj", "{E0BC5B73-4E87-4B59-9FBE-67F2E6E57245}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChocolateFeast", "ChocolateFeast\ChocolateFeast.vcxproj", "{F8E37CEA-469B-4B29-8184-EC0D1B8A02E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{E0BC5B73-4E87-4B59-9FBE-67F2E6E57245}.Release|x64.Build.0 = Release|x64
 		{E0BC5B73-4E87-4B59-9FBE-67F2E6E57245}.Release|x86.ActiveCfg = Release|Win32
 		{E0BC5B73-4E87-4B59-9FBE-67F2E6E57245}.Release|x86.Build.0 = Release|Win32
+		{F8E37CEA-469B-4B29-8184-EC0D1B8A02E2}.Debug|x64.ActiveCfg = Debug|x64
+		{F8E37CEA-469B-4B29-8184-EC0D1B8A02E2}.Debug|x64.Build.0 = Debug|x64
+		{F8E37CEA-469B-4B29-8184-EC0D1B8A02E2}.Debug|x86.ActiveCfg = Debug|Win32
+		{F8E37CEA-469B-4B29-8184-EC0D1B8A02E2}.Debug|x86.Build.0 = Debug|Win32
+		{F8E37CEA-469B-4B29-8184-EC0D1B8A02E2}.Release|x64.ActiveCfg = Release|x64
+		{F8E37CEA-469B-4B29-8184-EC0D1B8A02E2}.Release|x64.Build.0 = Release|x64
+		{F8E37CEA-469B-4B29-8184-EC0D1B8A02E2}.Release|x86.ActiveCfg = Release|Win32
+		{F8E37CEA-469B-4B29-8184-EC0D1B8A02E2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
