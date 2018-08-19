@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ModifiedKaprekarNumbers", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BeautifulTriplets", "BeautifulTriplets\BeautifulTriplets.vcxproj", "{449DC2F1-749D-4C36-B140-5A5ECDE28A41}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimumDistances", "MinimumDistances\MinimumDistances.vcxproj", "{5675D4B3-96AD-4870-8A34-D02C8EF30A47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{449DC2F1-749D-4C36-B140-5A5ECDE28A41}.Release|x64.Build.0 = Release|x64
 		{449DC2F1-749D-4C36-B140-5A5ECDE28A41}.Release|x86.ActiveCfg = Release|Win32
 		{449DC2F1-749D-4C36-B140-5A5ECDE28A41}.Release|x86.Build.0 = Release|Win32
+		{5675D4B3-96AD-4870-8A34-D02C8EF30A47}.Debug|x64.ActiveCfg = Debug|x64
+		{5675D4B3-96AD-4870-8A34-D02C8EF30A47}.Debug|x64.Build.0 = Debug|x64
+		{5675D4B3-96AD-4870-8A34-D02C8EF30A47}.Debug|x86.ActiveCfg = Debug|Win32
+		{5675D4B3-96AD-4870-8A34-D02C8EF30A47}.Debug|x86.Build.0 = Debug|Win32
+		{5675D4B3-96AD-4870-8A34-D02C8EF30A47}.Release|x64.ActiveCfg = Release|x64
+		{5675D4B3-96AD-4870-8A34-D02C8EF30A47}.Release|x64.Build.0 = Release|x64
+		{5675D4B3-96AD-4870-8A34-D02C8EF30A47}.Release|x86.ActiveCfg = Release|Win32
+		{5675D4B3-96AD-4870-8A34-D02C8EF30A47}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
